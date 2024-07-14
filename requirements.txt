@@ -1,0 +1,9 @@
+langchain-community
+langchain-openai
+langchain-core
+langchain
+openai
+python-dotenv
+faiss-cpu
+boto3
+PyPDF
